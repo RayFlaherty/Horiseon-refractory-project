@@ -20,15 +20,16 @@ body {
     color: #ffffff;
 }
 
+/* main header text*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/*header link color*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*header link position and style*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -40,7 +41,7 @@ body {
     sans-serif;
     font-size: 20px;
 }
-
+/* header list orientation */
 .header nav ul {
     list-style-type: none;
 }
@@ -49,16 +50,16 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
+/*header link color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/*text color for sight*/
 p {
     font-size: 16px;
 }
-
+/*hero image size, orientation*/
 .hero {
     height: 800px;
     width: 100%;
@@ -67,23 +68,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*image orientation for article 1 & 3*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*image orientatoin for article 2*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/*article box orientation and size*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/*benifits box orientation,size, and font styles*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -98,55 +99,55 @@ p {
        sans-serif;
     background-color: #2589bd;
 }
-
+/*benefit lead text color and size*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*benefit brand text color and size*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*benefit cost text color and size*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*benifits lead title size and location in box*/
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*benifits brand title size and location in box*/
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*benifits cost title size and location in box*/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*benifits lead display style and size*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*benifits brand display style and size*/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*benifits cost display style and size*/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*search engine optimization loction, style, and orentation*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -155,7 +156,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*online reputation management loction, style, and orentation*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -164,7 +165,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*social media marketing loction, style, and orentation*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -173,41 +174,41 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*search engine optimization image size*/
 .search-engine-optimization img {
     max-height: 200px;
 }
-
+/*online reputation management image size*/
 .online-reputation-management img {
     max-height: 200px;
 }
-
+/*social media marketing image size*/
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/*search engine optimization header size and orientation*/
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*online reputation management header size and orientation*/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*social media marketing header size and orientation*/
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*footer test style, and location*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/*footer size*/
 .footer h2 {
     font-size: 20px;
 }
